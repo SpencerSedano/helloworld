@@ -1,24 +1,18 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a simple Python script created to strengthen my understanding of programming concepts. As a software engineer in training, I'm building small, incremental projects to reinforce my skills and maintain consistency in my coding habits.
 
-{Provide a description of your software}
+This particular script outputs a couple of greeting messages to the console, demonstrating how to write and execute basic Python programs.
 
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration. It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/YMEQo4iCg-Q)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
+- **Editor:** Visual Studio Code
+- **Language:** Python 3.13
+- **OS:** macOS
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Python Official Documentation](https://docs.python.org/3/)
+- [W3Schools Python Tutorial](https://www.w3schools.com/python/)
